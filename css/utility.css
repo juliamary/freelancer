@@ -1,0 +1,60 @@
+/* utils */
+.mt {
+    margin-top: 25px;
+}
+
+.pt-25 {
+    padding-top: 25px;
+}
+
+.pd-5-10{
+	padding: 5% 10%;
+}
+
+.pd-10{
+	padding:0 10%;
+}
+.mb {
+    margin-bottom: 25px;
+}
+
+.ml {
+    margin-left: 5px;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.no-margin {
+    margin: 0 !important;
+}
+
+.bg-white{
+	background-color: white;
+}
+.bg-black{
+    background-color: black:;
+}
+
+.bg-oscuro{
+	background: #424a5d;
+    color: white;
+}
+
+.bg-green{
+     background-color: #13BA9B;
+     color: white;
+}
+
+.tx-w{
+	color: white;
+}
+
+.text-oscuro{
+	color: #2c3e50;
+}
+
+.fn{
+    float: none;
+}
